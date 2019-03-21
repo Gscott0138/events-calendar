@@ -1,0 +1,16 @@
+.event {
+  border-radius: 8px;
+  border: 1px solid #666;
+}
+
+.event-grey {
+  background-color: #f2f2f2;
+}
+
+.event-red {
+  background-color: #f2bcbc;
+}
+
+.event-purple {
+  background-color: #d2d6f0;
+}
